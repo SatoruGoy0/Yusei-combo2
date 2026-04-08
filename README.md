@@ -20,6 +20,6 @@ cd Yusei-combo2
 
 ls
 
-python3 crearcombo.py
+python3 Yusei combo.py
 
 by Yusei
